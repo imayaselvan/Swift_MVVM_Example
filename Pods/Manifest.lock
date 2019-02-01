@@ -1,0 +1,26 @@
+PODS:
+  - DropDown (2.3.12)
+  - Kingfisher (5.0.1)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+
+DEPENDENCIES:
+  - DropDown
+  - Kingfisher (~> 5.0)
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DropDown
+    - Kingfisher
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+  Kingfisher: 4f771421b9208185217550528a06fd48756cb7c2
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+
+PODFILE CHECKSUM: e0da2217c5a70fa25c6b0050d814a3d888141b15
+
+COCOAPODS: 1.5.3
